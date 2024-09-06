@@ -10,35 +10,16 @@
 <h3 align="center">ꜰʀᴏɴᴛᴇɴᴅ-ᴅᴇᴠᴇʟᴏᴘᴇʀ из ᴩоᴄᴄии🪆</h3>
 
 <br/>
-<table><tr><td valign="top" width="33%">
 
 <div align="center">
-
-# Пᴩиʙᴇᴛ! 🌟
-
-🎨 **Я — UI/UX дизайнер** с многолетним стажем и кучей отличных отзывов! 🌟✨
-Я решил перейти на более серьезный уровень и начать изучать **Frontend и Backend!** 💻🚀
-🌈 **Моя цель — стать FullStack-Разработчиком** и создавать удивительные веб-приложения с учетом всех аспектов разработки от трендов в дизайне до написания кода! 🌐🔧
-🚀 Я уже изучил и изучаю множество технологий, чтобы стать **настоящим мастером в своём деле!** 💡💪
-🎉 На моем счету пока что **1 проект**, но куча других интересных работ с UI/UX! 🌟
-
-**϶ᴛоᴛ ʀᴇᴀᴅᴍᴇ — ʍоя ᴧичнᴀя зᴀʍᴇᴛᴋᴀ нᴀ ᴨуᴛи ᴋ ᴩᴀзᴩᴀбоᴛᴋᴇ!** 📚✨
-
+    <img src="https://i.postimg.cc/Mp4yPdmZ/About.png" />
 </div>
-
-</td><td valign="top" width="20%">
-
-<div align="center">
-    <img src="https://i.postimg.cc/mkY6LDQt/b555de5cb.png" />
-</div>
-
-</td></tr></table>  
 
 <hr/>
 
 <div align="center">
 
-## 🖥️ **ᴄоц-ᴄᴇᴛи** 🖥️
+<img src="https://i.postimg.cc/0yxQ8m5G/image.png" />
 
 <br/>
 
@@ -55,12 +36,12 @@
 
 <hr/>
 
-<h2 align="center">🧑‍💻ᴄᴛᴇᴋ ᴛᴇхноᴧоᴦий🧑‍💻</h2>
+<div align="center">
+    <img src="https://i.postimg.cc/hP0n1Ygx/image.png" />
+</div>
 
-<br/>
+<div align="center">
 
-<div align="center
-">
 <img src="https://skillicons.dev/icons?i=photoshop,ae,figma,pycharm,vscode" />
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,gulp,tailwind"/>
 <img src="https://skillicons.dev/icons?i=python,bash,git,redis,django" />
@@ -88,8 +69,7 @@
 <hr/>
 
 <div align="center">
-
-# 💪 ʍои ᴨᴩоᴇᴋᴛы 💪
+<img src="https://i.postimg.cc/TwmML7CK/image.png" />
 
 [![Alt-текст](https://i.postimg.cc/jqMZxHbz/Desktop-1.png)](https://crxckovich.github.io/MountainTourismSite/)
 
@@ -98,9 +78,9 @@
 <hr/>
 
 <div align="center">
+<img src="https://i.postimg.cc/QC3LpQy0/image.png" />
+</div>
 
-# 📃 ᴄᴇᴩᴛиɸиᴋᴀᴛы 📃
-
+<div align="center">
 ⲯ﹍︿﹍︿﹍ 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝚘𝚘𝚗... ﹍ⲯ﹍ⲯ﹍︿﹍☼
-
 </div>
