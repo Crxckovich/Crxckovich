@@ -52,15 +52,6 @@
 <hr/>
 
 <div align="center">
-    <img src="https://i.postimg.cc/ZnVKZLjC/pngwing-com-2.png" width="200"/>
-    <img src="https://i.postimg.cc/ZnVKZLjC/pngwing-com-2.png" width="200"/>
-    <img src="https://i.postimg.cc/ZnVKZLjC/pngwing-com-2.png" width="200"/>
-    <img src="https://i.postimg.cc/ZnVKZLjC/pngwing-com-2.png" width="200"/>
-</div>
-
-<hr/>
-
-<div align="center">
     <img width=810 src="https://github-readme-stats-salesp07.vercel.app/api?username=Crxckovich&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width=440 src="https://streak-stats.demolab.com?user=Crxckovich&theme=react&border_radius=10&locale=ru&card_width=425&hide_total_contributions=true" alt="streak stats"/>
     <img width=367 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Crxckovich&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
