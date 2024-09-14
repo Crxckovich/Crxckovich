@@ -58,7 +58,7 @@
 <div align="center">
 <img src="https://i.postimg.cc/TwmML7CK/image.png" />
 
-[![Alt-текст](https://i.postimg.cc/jqMZxHbz/Desktop-1.png)](https://crxckovich.github.io/MountainTourismSite/)
+[![Alt-текст](https://i.postimg.cc/jqMZxHbz/Desktop-1.png)](https://crxckovich.github.io/Mountain-Tourism-Website/)
 
 </div>
 
