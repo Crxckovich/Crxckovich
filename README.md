@@ -28,6 +28,7 @@
 [![Telegram](https://img.shields.io/badge/-Ｔｅｌｅｇｒａｍ-273039?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/crxck1337)
 [![Facebook](https://img.shields.io/badge/-Ｆａｃｅｂｏｏｋ-273039?style=for-the-badge&logo=facebook&logoColor=27A0D9)](https://www.facebook.com/profile.php?id=100067309719337)
 [![Dev.to](https://img.shields.io/badge/-ＤＥＶ.ＴＯ-273039?style=for-the-badge&logo=Dev.to&logoColor=FFFFFF)](https://dev.to/crxckovich)
+[![linkedin](https://img.shields.io/badge/-ＬＩＮＫＥＤＩＮ-273039?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/crxck/)
 
 
 </div>
