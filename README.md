@@ -1,6 +1,8 @@
 <div>
 <img align="left" src="https://www.codewars.com/users/Crxckovich/badges/small" />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Crxckovich.Crxckovich"/>
+    
+[![](https://visitcount.itsvg.in/api?id=Crxckovich&icon=0&color=12)](https://visitcount.itsvg.in)
+
 </div>
 
 <h1 align="center">
