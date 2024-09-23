@@ -61,7 +61,7 @@
 <div align="center">
 <img src="https://i.postimg.cc/TwmML7CK/image.png" />
 
-[![Alt-текст](https://i.postimg.cc/jqMZxHbz/Desktop-1.png)](https://crxckovich.github.io/Mountain-Tourism-Website/)
+[![Desktop - 1](https://github.com/user-attachments/assets/c9aed4a5-da86-46cb-9a89-d79a049d5175)](https://crxckovich.github.io/Mountain-Tourism-Website/)
 
 </div>
 
