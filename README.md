@@ -36,8 +36,9 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=photoshop,ae,figma,pycharm,vscode" />
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,gulp,tailwind,react,vite,nextjs,redux,"/>
-<img src="https://skillicons.dev/icons?i=python,bash,git,redis,django,supabase,postgres" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,gulp,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,redux,supabase"/>
+<img src="https://skillicons.dev/icons?i=python,bash,git,redis,django,postgres" />
 </div>
 
 <hr/>
