@@ -57,13 +57,3 @@
 [![Desktop - 1](https://github.com/user-attachments/assets/c9aed4a5-da86-46cb-9a89-d79a049d5175)](https://crxckovich.github.io/Mountain-Tourism-Website/)
 
 </div>
-
-<hr/>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/664ec7bc-711c-4295-9bb7-f69a6d908f45" />
-</div>
-
-<div align="center">
-ⲯ﹍︿﹍︿﹍ 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝚘𝚘𝚗... ﹍ⲯ﹍ⲯ﹍︿﹍☼
-</div>
