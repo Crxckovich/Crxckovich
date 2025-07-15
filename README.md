@@ -17,13 +17,7 @@
 
 <br/>
 
-[![Vkontakte](https://img.shields.io/badge/-Ｖｋｏｎｔａｋｔｅ-273039?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id544602562)
-[![Twitter](https://img.shields.io/badge/-Ｔｗｉｔｔｅｒ-273039?style=for-the-badge&logo=X&logoColor=FFFFFF)](https://x.com/crxck1337)
 [![Telegram](https://img.shields.io/badge/-Ｔｅｌｅｇｒａｍ-273039?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/crxck1337)
-[![Facebook](https://img.shields.io/badge/-Ｆａｃｅｂｏｏｋ-273039?style=for-the-badge&logo=facebook&logoColor=27A0D9)](https://www.facebook.com/profile.php?id=100067309719337)
-[![Dev.to](https://img.shields.io/badge/-ＤＥＶ.ＴＯ-273039?style=for-the-badge&logo=Dev.to&logoColor=FFFFFF)](https://dev.to/crxckovich)
-[![linkedin](https://img.shields.io/badge/-ＬＩＮＫＥＤＩＮ-273039?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/crxck/)
-
 
 </div>
 
@@ -47,13 +41,4 @@
     <img width=810 src="https://github-readme-stats-salesp07.vercel.app/api?username=Crxckovich&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width=440 src="https://streak-stats.demolab.com?user=Crxckovich&theme=react&border_radius=10&locale=ru&card_width=425&hide_total_contributions=true" alt="streak stats"/>
     <img width=367 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Crxckovich&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-</div>
-
-<hr/>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/c59f27cf-7a4f-4f93-a11d-8c913fdd1606" />
-
-[![Desktop - 1](https://github.com/user-attachments/assets/c9aed4a5-da86-46cb-9a89-d79a049d5175)](https://crxckovich.github.io/Mountain-Tourism-Website/)
-
 </div>
