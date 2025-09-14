@@ -38,7 +38,7 @@
 <hr/>
 
 <div align="center">
-    <img width=810 src="https://github-readme-stats-salesp07.vercel.app/api?username=Crxckovich&count_private=true&show_icons=true&theme=graywhite&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width=440 src="https://streak-stats.demolab.com?user=Crxckovich&theme=graywhite&border_radius=10&locale=ru&card_width=425&hide_total_contributions=true" alt="streak stats"/>
-    <img width=367 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Crxckovich&hide=HTML&langs_count=8&layout=compact&theme=graywhite&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+    <img width=810 src="https://github-readme-stats-salesp07.vercel.app/api?username=Crxckovich&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=440 src="https://streak-stats.demolab.com?user=Crxckovich&theme=dark&border_radius=10&locale=ru&card_width=425&hide_total_contributions=true" alt="streak stats"/>
+    <img width=367 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Crxckovich&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
