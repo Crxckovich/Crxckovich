@@ -32,8 +32,7 @@
 
 <img src="https://skillicons.dev/icons?i=photoshop,ae,figma,pycharm,vscode" />
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,gulp,tailwind"/>
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,redux,supabase"/>
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=vite,react,nextjs,redux"/>
 </div>
 
 <hr/>
