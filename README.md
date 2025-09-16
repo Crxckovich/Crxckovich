@@ -14,9 +14,10 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/0yxQ8m5G/image.png" />
+<img src="https://github.com/user-attachments/assets/707e7b3e-9833-4e0a-a73b-f21293f3a742" />
 
 <br/>
+<p/>
 
 [![Telegram](https://img.shields.io/badge/-Ｔｅｌｅｇｒａｍ-273039?style=for-the-badge&logo=telegram&logoColor=FAFAFA&color=3f3f46)](https://t.me/crxck1337)
 
@@ -25,8 +26,10 @@
 <hr/>
 
 <div align="center">
-    <img src="https://i.postimg.cc/hP0n1Ygx/image.png" />
+    <img src="https://github.com/user-attachments/assets/4894ea71-c3e8-40e7-b544-7708ba766aa6" />
 </div>
+
+<p/>
 
 <div align="center">
 
