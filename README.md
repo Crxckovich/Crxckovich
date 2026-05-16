@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=photoshop,ae,figma,pycharm,vscode" />
+<img src="https://skillicons.dev/icons?i=photoshop,figma,pycharm,vscode" />
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind"/>
 <img src="https://skillicons.dev/icons?i=vite,react,nextjs,redux"/>
 </div>
